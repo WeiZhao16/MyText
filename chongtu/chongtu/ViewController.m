@@ -20,5 +20,9 @@
     NSLog(@"????");
 }
 
+- (void)text {
+    NSLog(@"123");
+}
+
 
 @end
